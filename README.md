@@ -6,8 +6,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/semion-solonar-236636226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semion-solonar-236636226" height="30" width="40" /></a>
 </p>
-<a href="mailto:shimon22361@icloud.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/cloud.svg" alt="shimon22361@icloud.com" height="30" width="40" /></a>
+<a href="mailto:shimon22361@icloud.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="shimon22361@icloud.com" height="30" width="40" /></a>
 </p>
+
 
 
 
