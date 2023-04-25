@@ -3,12 +3,15 @@
 <img align ="right" alt="Coding" width= "400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/semion-solonar-236636226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semion-solonar-236636226" height="30" width="40" /></a>
-</p>
 
-<a href="mailto:shimon22361@icloud.com"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="shimon22361@icloud.com" height="30" width="40" /></a>
-</p>
+<div style="display: flex; align-items: center;">
+  <p align="left">
+    <a href="https://linkedin.com/in/semion-solonar-236636226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semion-solonar-236636226" height="30" width="40" /></a>
+  </p>
+  <p style="margin-left: 10px;">
+    <a href="mailto:shimon22361@icloud.com"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="shimon22361@icloud.com" height="30" width="40" /></a>
+  </p>
+</div>
 
 
 
