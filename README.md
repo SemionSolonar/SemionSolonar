@@ -2,7 +2,7 @@
 <h3 align="center">I am a third year computer science student</h3>
 <img align ="right" alt="Coding" width= "400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/semion-solonar-236636226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semion-solonar-236636226" height="30" width="40" /></a>
 </p>
